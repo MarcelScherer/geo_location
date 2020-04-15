@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml:2:1-23:12
+ADDED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml:2:1-23:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\scher\.gradle\caches\transforms-2\files-2.1\ea88890b09526096266c9c16859169ae\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\scher\.gradle\caches\transforms-2\files-2.1\cb3ee0668a2ccffbec6ced598c9d8e79\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\scher\.gradle\caches\transforms-2\files-2.1\749c232115217351c91aa74c2d78bd12\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
@@ -25,29 +25,29 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\scher\.gradle\ca
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\scher\.gradle\caches\transforms-2\files-2.1\1e517e060e22e5750a896c56d451ab07\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\scher\.gradle\caches\transforms-2\files-2.1\8909bb9e572b85a1aed6ea82735a7b78\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\scher\.gradle\caches\transforms-2\files-2.1\2541981a540b257b4ca2e11e0b5e803f\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml:2:1-23:12
 	package
-		ADDED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml:3:5-39
-		INJECTED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml:2:1-23:12
-		INJECTED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml:2:1-23:12
-		INJECTED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml:4:5-78
+ADDED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml:4:5-78
 	android:name
-		ADDED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml:4:22-76
+		ADDED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml:4:22-76
 application
-ADDED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml:6:5-21:19
+ADDED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml:6:5-21:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\scher\.gradle\caches\transforms-2\files-2.1\cb3ee0668a2ccffbec6ced598c9d8e79\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\scher\.gradle\caches\transforms-2\files-2.1\cb3ee0668a2ccffbec6ced598c9d8e79\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.core:core:1.1.0] C:\Users\scher\.gradle\caches\transforms-2\files-2.1\da95e0dd41fd0c634661df2a0f122634\core-1.1.0\AndroidManifest.xml:24:5-89
@@ -57,37 +57,37 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sc
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\scher\.gradle\caches\transforms-2\files-2.1\da95e0dd41fd0c634661df2a0f122634\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml:11:9-35
 	android:label
-		ADDED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml:9:9-41
+		ADDED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml:9:9-41
 	android:testOnly
-		ADDED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml:12:9-33
+		ADDED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml:12:9-33
 	android:roundIcon
-		ADDED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml:10:9-54
+		ADDED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml:10:9-54
 	android:icon
-		ADDED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml:8:9-43
+		ADDED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml:8:9-43
 	android:allowBackup
-		ADDED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml:7:9-35
+		ADDED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml:13:9-40
+		ADDED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml:13:9-40
 activity#com.scherer.goe_location.MainActivity
-ADDED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml:14:9-20:20
+ADDED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml:14:19-47
+		ADDED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml:14:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml:15:13-19:29
+ADDED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml:18:17-77
+ADDED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml:18:27-74
+		ADDED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml:18:27-74
 uses-sdk
-INJECTED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\scher\.gradle\caches\transforms-2\files-2.1\ea88890b09526096266c9c16859169ae\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\scher\.gradle\caches\transforms-2\files-2.1\ea88890b09526096266c9c16859169ae\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\scher\.gradle\caches\transforms-2\files-2.1\cb3ee0668a2ccffbec6ced598c9d8e79\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
@@ -130,13 +130,13 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\scher\.g
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\scher\.gradle\caches\transforms-2\files-2.1\8909bb9e572b85a1aed6ea82735a7b78\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\scher\.gradle\caches\transforms-2\files-2.1\2541981a540b257b4ca2e11e0b5e803f\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\scher\.gradle\caches\transforms-2\files-2.1\2541981a540b257b4ca2e11e0b5e803f\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\scher\Documents\GitHub\geolocation\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\scher\Documents\GitHub\geo_location\app\src\main\AndroidManifest.xml
