@@ -1,0 +1,4 @@
+#Wed Apr 15 21:07:42 CEST 2020
+base.0=C\:\\Users\\scher\\Documents\\GitHub\\geolocation\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
